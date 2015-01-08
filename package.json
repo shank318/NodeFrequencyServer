@@ -1,0 +1,13 @@
+{
+  "name": "FrequencyServer",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~4.8.6",
+    "body-parser": "~1.6.6",
+    "debug": "~1.0.4"
+  }
+}
